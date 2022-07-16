@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVIapp</string>
+    <string name="enter_country_name">Enter country name</string>
+    <string name="search">Search</string>
+</resources>
